@@ -30,7 +30,6 @@ Welcome to the **News Search & User Authentication** project! This is a simple w
 2. CSS3: For styling and responsiveness.
 3. JavaScript: For fetching news using the NewsAPI and managing user authentication.
 4. NewsAPI: Used to fetch real-time news articles.
-5. 
 # Contributing
 We welcome contributions to this project! If you have ideas for new features, bug fixes, or improvements, feel free to fork the repository and create a pull request.
 Here are a few ways you can contribute:
